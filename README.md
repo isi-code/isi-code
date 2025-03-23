@@ -12,7 +12,12 @@ I'm Irvin Silva, a student at Brigham Young University-Idaho interested in web d
 ## Technologies and Tools
 
 - Proficient in: HTML, CSS, JavaScript, Python, PHP, SQL
-- Skills: Git, Word 
+- Skills: Git, Word
+ 
+## GitHub Status
+
+- [![Irvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=isi-code&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isi-code&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## Let's Connect!
 
