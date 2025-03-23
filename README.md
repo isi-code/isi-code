@@ -12,7 +12,7 @@ I'm Irvin Silva, a student at Brigham Young University-Idaho interested in web d
 ## Technologies and Tools
 
 - Proficient in: HTML, CSS, JavaScript, Python, PHP, SQL
-- Skills: Git, Word
+- Skills: Git, Microsoft Office Package, Linux Familiarity
  
 ## GitHub Status
 
