@@ -1,16 +1,20 @@
-## Hi there 👋
+# Irvin Silva
 
-<!--
-**isi-code/isi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Irvin Silva, a student at Brigham Young University-Idaho interested in web development. I am interested in interesting building web and mobile applications. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning the Flask framework, improving on my JavaScript and Python skills
+- My goals is to learn android apps development, Django framework, 
+
+## Technologies and Tools
+
+- Proficient in: HTML, CSS, JavaScript, Python, PHP, SQL
+- Skills: Git, Word 
+
+## Let's Connect!
+
+- Here is my [LinkedIn](www.linkedin.com/in/irvin-silva-ibarra) profile
+- Here is my [Email](irvinjose.silva@gmail.com) address
