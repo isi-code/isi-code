@@ -16,9 +16,9 @@ I'm Irvin Silva, a student at Brigham Young University-Idaho interested in web d
  
 ## GitHub Status
 
-[![Irvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=isi-code&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Irvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=isi-code&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isi-code&hide=javascript,css,scss,html&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isi-code&theme=tokyonight)
 
 ## Let's Connect!
 
