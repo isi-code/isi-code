@@ -7,7 +7,11 @@ I'm Irvin Silva, a student at Brigham Young University-Idaho interested in web d
 ## About Me
 
 - I'm currently learning the Flask framework, improving on my JavaScript and Python skills
-- My goals is to learn android apps development, Django framework, 
+- My goals is to learn android apps development, Django framework,
+
+## Relevant Projects
+- [Flask Recipe Book](https://github.com/isi-code/recipe-database-sqlite)
+- [Kotlin Hangman Game](https://github.com/isi-code/hangman-kotlin)
 
 ## Technologies and Tools
 
